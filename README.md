@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQH5i_pk9_lOGw/article-cover_image-shrink_720_1280/0/1697089776871?e=2147483647&v=beta&t=_S2qYzhyUMPWyqRaNghRycz5jNekKZzWQCEisTNR0k0)]()
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Muhammad Ishfaq</h1>
 <h3 align="center">An enthusiastic Machine Learning Engineer and Python Developer.</h3>
 
